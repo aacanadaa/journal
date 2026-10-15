@@ -1,7 +1,8 @@
 # journal
 my journal that explains the world
 
-## google
+## AI
+### google
 
 How the fuck do they botch up chromeOS so fucking bad? 175 dollar laptop and a Windows on 5 year old integrated graphics would run better.
 
@@ -13,9 +14,11 @@ What are they even doing? Masturbating in the fucking corner of the fucking base
 
 At least release the damn model when you release the damn benchmarks.
 
-## claude
+### claude
 
 gay mfs use Claude cause they exercise ethics and morals
+
+## Miscellaneous 
 
 ## meth
 
@@ -29,4 +32,4 @@ Filtration unit — to remove the solid catalyst
 Boiler — to make steam for heating
 Control panel — a big board with buttons and lights that the operators watch
 
-##
+## 
