@@ -1,5 +1,15 @@
 # journal
 my journal that explains the world
+## General
+
+what's wrong with california? what kind of maniacs force people to put fucking orange tape around their entire ass toy gun?
+
+no no no
+
+the real question is
+
+what is Howa's problem? why the fuck is the howa type 20 gbb 2000 dollars in the fucking US??? 
+
 
 ## AI
 ### google
@@ -20,7 +30,7 @@ gay mfs use Claude cause they exercise ethics and morals
 
 ## Miscellaneous 
 
-## meth
+### meth
 
 Reactor vessels — 3–4 big steel tanks, roughly 10,000–20,000 L each
 Distillation column — to separate meth from the other chemicals
