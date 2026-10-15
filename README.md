@@ -1,7 +1,7 @@
 # journal
 my journal that explains the world
 
-##google
+## google
 
 How the fuck do they botch up chromeOS so fucking bad? 175 dollar laptop and a Windows on 5 year old integrated graphics would run better.
 
@@ -13,11 +13,11 @@ What are they even doing? Masturbating in the fucking corner of the fucking base
 
 At least release the damn model when you release the damn benchmarks.
 
-##claude
+## claude
 
 gay mfs use Claude cause they exercise ethics and morals
 
-##meth
+## meth
 
 Reactor vessels — 3–4 big steel tanks, roughly 10,000–20,000 L each
 Distillation column — to separate meth from the other chemicals
